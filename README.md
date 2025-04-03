@@ -39,10 +39,8 @@ npm install
 3. Copy `.env.example` to `.env` and fill in the configuration:
 ```env
 # Main wallet private key
-WALLET_PRIVATE_KEY="your-private-key-here"
+WALLET_PRIVATE_KEY=your-private-key-here
 
-# RPC node (optional)
-RPC_URL="your-rpc-url" 
 ```
 
 ## Configuration
